@@ -1,6 +1,6 @@
 # ember-template-equality-operators-polyfill
 
-[Short description of the addon.]
+Polyfill for https://rfcs.emberjs.com/id/0560-add-equality-operators/
 
 
 ## Compatibility
@@ -19,7 +19,7 @@ ember install ember-template-equality-operators-polyfill
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+Polyfill for https://rfcs.emberjs.com/id/0560-add-equality-operators/
 
 
 ## Contributing
